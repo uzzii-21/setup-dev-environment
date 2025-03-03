@@ -7,17 +7,9 @@ This guide will help you set up a development environment on macOS with essentia
 
 Here’s a list of essential apps for development along with their descriptions and official websites.
 
-### Postman
-API testing tool that allows you to test, develop, and document APIs.  
-[Postman Official Website](https://www.postman.com/)
-
 ### Visual Studio Code (VS Code)
 A popular code editor with rich extensions for different languages and tools.  
 [VS Code Official Website](https://code.visualstudio.com/)
-
-### Figma
-A collaborative design tool for creating user interfaces and prototypes.  
-[Figma Official Website](https://www.figma.com/)
 
 ### ChatGPT
 A conversational AI assistant for coding assistance, problem-solving, and learning.  
@@ -39,14 +31,6 @@ An open-source SQL editor and database management tool.
 Allows you to connect and control remote Windows machines from macOS.  
 [Microsoft Remote Desktop Website](https://apps.apple.com/us/app/microsoft-remote-desktop/id1295203466?mt=12)
 
-### Docker
-A platform for developing, shipping, and running applications inside containers.  
-[Docker Official Website](https://www.docker.com/)
-
-### Raycast
-A productivity tool that helps with running commands, controlling apps, managing tasks, and more.  
-[Raycast Official Website](https://www.raycast.com/)
-
 ### GitHub Desktop
 A Git GUI client to manage GitHub repositories from your desktop.  
 [GitHub Desktop Website](https://desktop.github.com/)
@@ -62,6 +46,14 @@ A next-gen browser focused on productivity and enhanced browsing experience.
 ### WhatsApp
 Stay connected with your contacts via WhatsApp Desktop for messaging.  
 [WhatsApp Website](https://www.whatsapp.com/download/)
+
+### Android Studio
+A comprehensive IDE for Android development, offering tools for coding, debugging, and performance tuning.  
+[Android Studio Website](https://developer.android.com/studio)
+
+### Xcode
+Apple's IDE for macOS, used for developing software for iOS, macOS, watchOS, and tvOS.  
+[Xcode Website](https://developer.apple.com/xcode/)
 
 ## Chrome Extensions
 
